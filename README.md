@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>RESUME</title>
-</head>
+
 <body>
 
 <center><h1>MY RESUME PAGE</h1></center>

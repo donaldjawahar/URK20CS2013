@@ -46,7 +46,7 @@ app.controller("myctrl",($scope)=>{
                     }}
 })
 app.config(function($routeProvider){
-    $routeProvider.when('/maddy',{
+    $routeProvider.when('/donald',{
         templateUrl:'./page1.html'
     })
     .when('/sam',{

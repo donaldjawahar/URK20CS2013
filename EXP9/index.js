@@ -58,5 +58,5 @@ app.config(function($routeProvider){
     .when('/muthu',{
         templateUrl:'./page4.html'
     })
-    .otherwise({redirectTo:'/maddy'})
+    .otherwise({redirectTo:'/donald'})
 })
